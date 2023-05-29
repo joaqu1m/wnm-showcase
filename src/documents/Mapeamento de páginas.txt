@@ -1,0 +1,21 @@
+:::Páginas
+
+::Sem fluxo
+Home
+Contato
+
+::Fluxo download
+Designs
+Detalhamento do design
+Carregamento de download do design
+
+::Fluxo upload
+Cadastro
+Login
+Perfil
+Página de upload de design
+
+::Configurações Perfil
+Informações de conta
+Acessibilidade
+Privacidade

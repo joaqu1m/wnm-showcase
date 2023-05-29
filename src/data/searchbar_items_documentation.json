@@ -1,0 +1,77 @@
+[
+    {
+        "item": "Login",
+        "type": "page",
+        "path": "/login",
+        "aliases": [
+            {
+                "language": "en",
+                "alias": ["login", "enter", "join", "sign", "in", "access", "signin"]
+            },
+            {
+                "language": "pt-br",
+                "alias": ["logar", "acesso", "acessar", "entrar"]
+            }
+        ]
+    },
+    {
+        "item": "Register",
+        "type": "page",
+        "path": "/register",
+        "aliases": [
+            {
+                "language": "en",
+                "alias": ["register", "sign", "up", "signup"]
+            },
+            {
+                "language": "pt-br",
+                "alias": ["cadastrar", "registrar", "juntar"]
+            }
+        ]
+    },
+    {
+        "item": "Home",
+        "type": "page",
+        "path": "/",
+        "aliases": [
+            {
+                "language": "en",
+                "alias": ["home", "main", "starting", "page", "mainpage", "homepage", "startingpage", "welcome"]
+            },
+            {
+                "language": "pt-br",
+                "alias": ["inicio", "pagina", "inicial", "bem", "vindo"]
+            }
+        ]
+    },
+    {
+        "item": "Models",
+        "type": "page",
+        "path": "/models",
+        "aliases": [
+            {
+                "language": "en",
+                "alias": ["model", "models", "3d", "objects", "objects", "design", "designs"]
+            },
+            {
+                "language": "pt-br",
+                "alias": ["modelo", "modelos", "3d", "objeto", "objetos"]
+            }
+        ]
+    },
+    {
+        "item": "Profile",
+        "type": "page",
+        "path": "/profile",
+        "aliases": [
+            {
+                "language": "en",
+                "alias": ["profile", "user", "my", "account", "personal", "details"]
+            },
+            {
+                "language": "pt-br",
+                "alias": ["perfil", "usuario", "meu", "conta", "pessoal", "detalhes"]
+            }
+        ]
+    }
+]

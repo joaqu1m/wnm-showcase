@@ -1,0 +1,20 @@
+:::Requisitos funcionais da pesquisa na searchbar
+
+::Funcionamento em 
+O sistema deve ter pesquisa por página, theme_tag em designs, itemtype_tag em designs,
+A barra de carregamento deve priorizar 
+A barra de carregamento na página de designs deve sempre priorizar a pesquisa por modelos > tags > resto
+
+::Tratando input do usuário
+O sistema deve retirar acentuação
+O sistema deve retirar letras maiúsculas
+O sistema deve dar .trim() em todos os campos digitados pelo usuário
+O sistema deve separar as palavras conforme separadas por spacebar e hífen
+
+::Comparando com palavras-chave no sistema
+O sistema deve fazer essa busca considerando caracteres errados
+O sistema deve fazer essa busca considerando caracteres faltando
+O sistema deve fazer essa busca considerando caracteres a mais
+O sistema deve fazer essa busca considerando caracteres trocados de lugar
+O sistema deve fazer essa busca na língua preferida do usuário (caso exista) e em inglês, sempre.
+O sistema deve fazer essa busca esperando várias palavras como resultado, e também pelo tipo de página

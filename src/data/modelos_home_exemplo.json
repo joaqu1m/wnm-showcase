@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Meu primeiro Modelo 3d",
+        "author": "João Marcos",
+        "description": "Meu primeiro modelo 3d feito em .jwm",
+        "file": "meu_primeiro_modelo.jwm",
+        "icon": "meu_primeiro_modelo.png",
+        "itemtype_tags": ["object", "tool", "scenario"],
+        "theme_tags": ["fantasy", "dark"],
+        "relevance": 0.5,
+        "downloads": 0,
+        "created_date": null,
+        "updated_date": null,
+        "animated": false
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "itemtype_tags": [
+        {
+            "tag": "object",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "character",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "scenario",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "vehicle",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "symbol",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "tool",
+            "subtags": ["TODO:"]
+        },
+        {
+            "tag": "other",
+            "subtags": ["TODO:"]
+        }
+    ],
+    "theme_tags": []
+}
