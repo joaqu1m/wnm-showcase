@@ -51,7 +51,7 @@
         "aliases": [
             {
                 "language": "en",
-                "alias": ["model", "models", "3d", "objects", "objects", "design", "designs"]
+                "alias": ["model", "models", "3d", "objects", "objects", "design", "designs", "prop", "props"]
             },
             {
                 "language": "pt-br",
@@ -73,5 +73,8 @@
                 "alias": ["perfil", "usuario", "meu", "conta", "pessoal", "detalhes"]
             }
         ]
+    },
+    {
+        "item": "Settings",
     }
 ]

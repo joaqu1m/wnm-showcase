@@ -1,0 +1,25 @@
+Caixa de Seleção Única:
+Whatever
+Animated
+Static
+
+Caixa de Seleção Única:
+relevance
+downloads
+created_date
+updated_date
+
+Caixa de Seleção Única referente à anterior:
+crescente
+decrescente
+
+Caixa de seleção adição/remoção múltipla:
+itemtype_tags
+
+Caixas de seleção adição/remoção múltipla para cada tag selecionada:
+itemtype_subtags
+
+Caixa de seleção adição/remoção múltipla:
+theme_tags
+
+Adição/Remoção = Apenas filtros selecionados ou Todos excluindo filtros selecionados

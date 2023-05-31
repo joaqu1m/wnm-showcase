@@ -1,33 +1,42 @@
 {
     "itemtype_tags": [
         {
-            "tag": "object",
-            "subtags": ["TODO:"]
+            "tag": "prop",
+            "subtags": ["object", "tool", "weapon", "armor", "eletronic", "clothes", "consumables", "furniture", "other"]
         },
         {
             "tag": "character",
-            "subtags": ["TODO:"]
+            "subtags": ["human", "creature", "insect", "animal", "monster", "extraterrestrial", "robot", "other"]
         },
         {
             "tag": "scenario",
-            "subtags": ["TODO:"]
+            "subtags": ["biome", "nature", "terrain", "decoration", "plant", "rock", "building", "indoor", "outdoor", "urban", "rural", "fantasy", "sci-fi", "other"]
         },
         {
             "tag": "vehicle",
-            "subtags": ["TODO:"]
+            "subtags": ["car", "truck", "airplane", "boat", "ship", "spaceship", "train", "motorcycle", "bicycle", "other"]
         },
         {
             "tag": "symbol",
-            "subtags": ["TODO:"]
-        },
-        {
-            "tag": "tool",
-            "subtags": ["TODO:"]
+            "subtags": ["letter", "number", "punctuation", "math", "currency", "logo", "text", "other"]
         },
         {
             "tag": "other",
-            "subtags": ["TODO:"]
+            "subtags": []
         }
     ],
-    "theme_tags": []
+    "theme_tags": [
+        "fantasy",
+        "colorful",
+        "dark",
+        "cute",
+        "realistic",
+        "cartoon",
+        "pixel",
+        "retro",
+        "modern",
+        "sci-fi",
+        "manmade",
+        "other"
+    ]
 }
